@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <title>
+        Aula de tags
+    </title>
+</head>
+<body> 
+    <h1>teste h1</h1>
+    <p>Paragráfo de conteúdo da Tag H1</p>
+    <hr/>
+    <h2>teste h2</h2>
+    <p>Paragráfo de conteúdo da Tag H2</p>
+    <h3>teste h3</h3>
+    <br/>
+    <p>Paragráfo de conteúdo da Tag H3</p>
+    <h4>teste h4</h4>
+    <p>Paragráfo de conteúdo da Tag H4</p>
+    <h5>teste h5</h5>
+    <p></p>Paragráfo de conteúdo da Tag H5</p>
+    <h6> teste h6</h6>
+    <p>Paragráfo de conteúdo da Tag H6</p>
+    <p>
+      <button>google<a href="https://google.com" target="_blank"></a> </button> 
+    </p>
+    <img height="300" width="300" src="coelhinho.jfif" />
+    </body>
+
+</html>
