@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula divs</title>
+</head>
+<body> 
+    <nav style="background-color: lightskyblue;">
+        <h2>Meu site</h2>
+        <a href="https://google.com" target="_blank">google</a>
+        <a href="https://instagram.com/daniellecmiranda" target="_blank">Insta</a>
+        <a href="https://instagram.com/cccbrasillive" target="_blank">CCC</a>
+    </nav>
+    <main style="border: solid 5px lightblue">
+        <h2>conteúdo principal</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, voluptas! Et vel magnam sit nihil labore rerum qui placeat accusantium fuga? Laboriosam quos repellat quas deserunt aspernatur tempora pariatur optio!
+        </p>
+        <img height="1px" width="1px" src="grinch.jfif">
+        
+    </main>
+    <footer style="border: solid 5px lightcyan;">
+        <h2>Rodapé</h2>
+    </footer>
+</body>
+</html>
