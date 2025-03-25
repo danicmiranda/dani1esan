@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista</title>
+</head>
+<header>
+<body>
+    <nav>
+    <a href="quemsomos.html"> Voltar a Quem Somos?</a>
+    <a href="index.html">Voltar para a tela inicial</a>
+</nav>
+</header>
+<main>
+    <table>
+        <tr>
+        <th>Id</th>
+        <th>descrição</th>
+        <th>nome</th>
+        <th>preços</th>
+    </tr>
+    <tr>
+        <td>123</td>
+        <td>computador</td>
+        <td>Dani</td>
+        <Td>1,50</Td>
+    </tr>
+    <tr>
+        <td>456</td>
+        <td>Monitor</td>
+        <td>Marcos</td>
+        <td>1,50</td>
+    </tr>
+    </table>
+</main>
+</body>
+</html>
