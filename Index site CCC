@@ -1,0 +1,18 @@
+<html>
+
+<head>
+    <title>
+       Comunidade Cristã de Curitiba
+    </title>
+</head>
+<body>
+    <img src="logo ccc.png">
+</br>
+<h2>Bem vindo!</h2>
+<p>Nós da Comunidade Cristã de curitiba estamos muito felizes de te receber aqui! Para nos conhecer melhor, clique no link abaixo!</p>
+</br>
+<a href="quemsomos.html" target="_blank">Quem somos?</a>
+</br>
+<h3>Para saber mais sobre a nossa livraria Terry Bookstore, clique no link abaixo</h3>
+<a href="lista.html">Terry Bookstore</a>
+</body>
