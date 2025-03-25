@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comunidade Cristã de Curitiba</title>
+</head>
+<body> 
+    <Nav>
+        <img src="ccc.png">
+        <h2>Conhea nossas redes sociais!</h2>
+        <a href="https://instagram.com/cccbrasillive">Instagram</a>
+        <a href="https://instagram.com/redejovemccc">Rede Jovem</a>
+        <a href="https://linktr.ee/cccbrasillive">Mais informações</a>
+    </Nav>
+    <main style="background-color: lightcyan;">
+        <h2>Nossa Igreja</h2>
+        <p>A Comunidade Cristã de Curitiba é uma igreja não denominacional, localizada no Bairro Alto, mas também com campus em pontos estratégicos, tais como: Colombo, União da Vitòria, Piraquara e Vila Izabel. Tenco como principal alvo a formação de uma igreja mais forte para a próxima geração, mas ainda assim com projetos para que todas as idades possam desfrutar de suas crenças.</p>
+        </p>
+        
+    </main>
+    <footer style="background-color: lightskyblue;">
+        <h2>Nossos Contatos</h2>
+        <h4>@cccbrasillive</h4>
+        <a href="index.html">Voltar</a>
+    </footer>
+</body>
+</html>
