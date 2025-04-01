@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<header>
+<body>
+    <nav>
+    <a href="quemsomos.html"> Voltar a Quem Somos?</a>
+    <a href="index.html">Voltar para a tela inicial</a>
+    <a href="lista.html">Voltar para TerryBookstore</a>
+    </nav>
+</header>
+<main>
+    <h1>Formulário</h1>
+    <form>
+        <div></div>
+        <label for="txt-nome">Nome:</label>
+        <input type="text" id="txt-nome"/>
+    </div>
+    <div>
+        <label for="date-nome">Data:</label>
+        <input type="date" id="date-nome">
+    </div>
+    <div>
+        <label for="number-nome">Quantidade:</label>
+        <input type="number" id="number-nome">
+    </div>
+    <div>
+        <label for="checkbox-nome">Deseja receber e-mails?</label>
+        <input type="checkbox" id="checkbox-nome">
+    </div>
+    <div>
+        <label for="rb-turma">Turma:</label>
+        <label for="rb-turma">A</label>
+        <input type="radio" id="turma-A" name="rb-turma">
+        <label for="rb-turma">B</label>
+        <input type="radio" id="turma-B" name="rb-turma">
+        <label for="rb-turma">C</label>
+        <input type="radio" id="turma-C" name="rb-turma">
+    </div>
+    <div>
+        <label for="submit-nome">Enviar:</label>
+        <input type="submit" id="submit-nome">
+    </div>
+
+
+    <br/>
+    
+</main>
+</form>
+</body>
