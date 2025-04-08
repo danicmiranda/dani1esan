@@ -1,0 +1,44 @@
+<html>
+
+<head>
+    <title>
+        Comunidade Cristã de Curitiba
+    </title>
+    <style>
+        header {
+            color: rgb(2, 147, 167);
+            border: solid 1px navy;
+            background-color: beige;
+        }
+
+        Main {
+            color: rgb(2, 147, 167);
+            border: solid 1px navy;
+            background-color: beige;
+            font-size: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <img src="logo ccc.png">
+        </br>
+        <h1>Bem vindo!</h1>
+    </header>
+    <main>
+        <p>Para fazer login, clique abaixo.</p>
+        <a href="formulário.html" target="_blank">Login</a>
+        <p>Nós da Comunidade Cristã de curitiba estamos muito felizes de te receber aqui! Para nos conhecer melhor,
+            clique no link abaixo!</p>
+        </br>
+        <a href="quemsomos.html" target="_blank">Quem somos?</a>
+        </br>
+        <h3>Para saber mais sobre a nossa livraria Terry Bookstore, clique no link abaixo</h3>
+        <a href="lista.html">Terry Bookstore</a>
+        <div class="more"></div>
+
+    </main>
+</body>
+
+</html>
